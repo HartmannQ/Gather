@@ -1,0 +1,76 @@
+[en]
+
+SHOW_SCORE_TAG = !gScore: !tTeam A: !g%d !tTeam B: !g%d
+MATCH_NOT_STARTED = A match hasn't started yet!
+SHOW_SCORE_HUD = Score:^n________^nTeam A: %d^nTeam B: %d
+NAME_TEAM_A= Team A: %s
+NAME_TEAM_B= Team B: %s
+RATIO = You ratio is: %.2f
+MATCH = Match start in:
+FIVE = !t= !g5 !t=
+FOUR = !t= !g4!t =
+THREE = !t= !g3 !t=
+TWO = !t= !g2 !t=
+ONE = !t= !g1 !t=
+GAME = Game is ON !
+LIVE = LIVE ! LIVE ! LIVE !
+GLHF = Good Luck and Have Fun!
+LIVEHUD = Game is LIVE^n1st HALF Started.
+HALF = !gHalf start in:
+LIVEHUDHALF = Game is LIVE^n2st HALF Started.
+CHECK = Check player: %d/%d
+TAKING_SCREENSHOTS = Taking screenshots... Smile!
+POST_DEMO = 
+FORCED_READY = %s Forced to be ready.
+READY_NUM = %d/%d are Ready...
+PASSWORD = Server password is: %s
+FRIENDLYFIRE_ON =Friendlyfire is ON!
+FRIENDLYFIRE_OFF = Friendlyfire is OFF!
+INFO_USAGE = Useage: .info <name> <command>
+VALID_COMMAND = Please enter a valid command.
+CHECK_CVAR = Checking %s for %s.
+MULTIPLE_NAME = There is no or multiple players with that name!
+CVAR_SET_TO = %s has %s set to %s
+KICK_USAGE = Useage: .kick <name> <reason>
+VALID_REASON = Please enter a valid reason
+KICK_BY_KICK = %s got kicked by %s. Reason: %s
+BAN_USAGE = Useage: .ban <name> <time>
+VALID_TIME = Please enter a valid^1 time^3
+BAN_BY_BAN = %s got banned by %s. Time: %s
+SWITCH_TEAMS = 15 Rounds have passed, switching teams!
+DEMO_RECORD = *%s-%s Started recording demo.
+DEMO_USAGE = Useage: .demo <name> <demoname>
+VALID_NAME = Please enter a demo name.
+DEMO_ON_DEMO = %s start demo record by %s. DemoName: %s
+PLAYERS_MENU_TITLE = Players menu:
+PLAYERS_MENU_ITEM1 = Player's commands
+PLAYERS_MENU_ITEM2 = Rank Online Player
+PLAYERS_MENU_ITEM3 = Voteban a Player
+PLAYERS_MENU_ITEM4 = Private Message
+PLAYERS_MENU_ITEM5 = Admin's Commands
+AFK_TIME = You have %i seconds to move or you will be kicked for being AFK
+AFK_KICK = %s was kicked for being AFK longer than %i seconds
+KR_STARTED = Kniferound has started!
+KR_WIN_CT = CT's win,they will decide to swap teams or not shortly!
+KR_WIN_T = T's win,they will decide to swap teams or not shortly!
+KR_SWITCH_TEAMS = %s The winning team decided to switch teams!
+KR_STAY_IN = The winning team decided to stay in!
+KR_VOTE_YES = %s voted for.
+KR_VOTE_NO = %s voted aganist.
+WON_MAP = %s Won the vote with %i Votes
+MAP_X_VOTE = %s has Voted for %s
+VOTEBAN_BAN = > Player %s has been banned for %d min. due voteban!
+BAN_X_PLAYER = > Player %s votebanned %s!
+ALREADY_VOTEBAN = *You already votebanned this player!*
+NOT_YOU = *You cannot voteban yourself!*
+NOT_VOTEBAN = > This command is unavailable! Need at least 3 players.
+MAP_STARTED = Map's vote has started!
+AUTO_READY = --------------------------^nWelcome %s^nAuto Ready for: %d^n--------------------------
+SAY_REAY = --------------------------^nWelcome %s^nsay .add for: %d or kick^n--------------------------
+YOU_RANK = Your rank is %i of %i players with %i points. 
+SKILL = Total points: %d Level: %s Points to the next level: %d
+FULL_SKILL = Total points: %d Level: %s (last level)
+MATCH_OVER = Match is over! Thank for playing.
+MATCH_OVER_CHECK = Match is over in 5 seconds!!!
+TEAM_WONEND = %s has won the Match!
+PLUGIN_RESTART = Plugin will restart in 10 seconds.
